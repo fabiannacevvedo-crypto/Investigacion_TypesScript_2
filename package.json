@@ -4,7 +4,7 @@
   "type": "module",
   "main": "dist/01-que-es-typescript.js",
   "scripts": {
-    "dev": "tsx watch src/01-que-es-typescript.ts",
+    "dev": "tsx --watch src/01-que-es-typescript.ts",
     "check": "tsc --noEmit",
     "check:watch": "tsc --noEmit --watch",
     "build": "tsc",
