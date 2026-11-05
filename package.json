@@ -1,0 +1,20 @@
+{
+  "name": "tp-investigacion-typescript",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "dist/01-que-es-typescript.js",
+  "scripts": {
+    "dev": "tsx watch src/01-que-es-typescript.ts",
+    "check": "tsc --noEmit",
+    "check:watch": "tsc --noEmit --watch",
+    "build": "tsc",
+    "start": "node --enable-source-maps dist/01-que-es-typescript.js",
+    "tema:1": "tsx src/01-que-es-typescript.ts",
+    "tema:2": "tsx src/02-crear-ejecutar.ts",
+    "tema:3": "tsx src/03-tipos-basicos.ts",
+    "tema:4": "tsx src/04-funciones.ts",
+    "tema:5": "tsx src/05-interfaces-type.ts",
+    "tema:6": "tsx src/06-enums-literales.ts",
+    "run:all": "tsx src/01-que-es-typescript.ts && tsx src/02-crear-ejecutar.ts && tsx src/03-tipos-basicos.ts && tsx src/04-funciones.ts && tsx src/05-interfaces-type.ts && tsx src/06-enums-literales.ts"
+  }
+}
