@@ -8,7 +8,7 @@
  * - versiones actuales : (noviembre de 2026) typescript 7 salio el 8 de septiembre de 2026
  */
 console.log("==========================================")
-console.log("TEMA 1 ¿Que ES TYPESCRIPT"),
+console.log("TEMA 1 ¿Que ES TYPESCRIPT")
 console.log("==========================================")
 
 //1. Superconjunto tipado : variables con tipos explicitos 
