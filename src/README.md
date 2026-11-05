@@ -10,6 +10,7 @@
 ---
 
 ## Contenido del Informe
+
 1. [Investigación Teórica](#investigación-teórica)
    - [Tema 1: ¿Qué es TypeScript?](#tema-1-qué-es-typescript)
    - [Tema 2: Crear y ejecutar un proyecto](#tema-2-crear-y-ejecutar-un-proyecto)
