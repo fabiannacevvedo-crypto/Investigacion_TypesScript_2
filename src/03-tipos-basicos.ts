@@ -41,7 +41,7 @@ console.log("3. Inferencia de tipos:");
 console.log(`- let ciudad = "Formosa"; -> TypeScript infiere el tipo string automáticamente.\n`);
 
 // 4. Union types, null y undefined con strict activado
-//Un tipo Unión (Union Type) en TypeScript permite que una variable, parámetro o propiedad pueda guardar más de un tipo de dato diferente.
+console.log("Un tipo Unión (Union Type) en TypeScript permite que una variable, parámetro o propiedad pueda guardar más de un tipo de dato diferente");
 let id: string | number = "ABC123";
 console.log("4. Tipos Unión (string | number):");
 console.log(`- id con valor string: ${id}`);
